@@ -1,0 +1,102 @@
+{
+  "cachorros": [
+    {
+      "Nome": "Max",
+      "Raça": "Labrador Retriever",
+      "Idade": "3 anos",
+      "Porte": "Grande",
+      "LinkImagem": "https://petanjo.com/blog/wp-content/uploads/2021/11/labrador-tudo-sobre-a-raca.jpg"
+    },
+    {
+      "Nome": "Bella",
+      "Raça": "Poodle",
+      "Idade": "2 anos",
+      "Porte": "Médio",
+      "LinkImagem": "https://gestoranimal.com.br/wp-content/uploads/2020/09/poodle-gigante-branco-sentado-em-banco.jpg"
+    },
+    {
+      "Nome": "Rocky",
+      "Raça": "Bulldog Inglês",
+      "Idade": "4 anos",
+      "Porte": "Médio",
+      "LinkImagem": "https://www.cobasi.com.br/arquivos/bulldog-ingles-meio-2.png?v=637612757677100000"
+    },
+    {
+      "Nome": "Luna",
+      "Raça": "Shih Tzu",
+      "Idade": "1 ano",
+      "Porte": "Pequeno",
+      "LinkImagem": "https://tudosobrecachorros.com.br/wp-content/uploads/2012/05/shih_tzu.jpg"
+    },
+    {
+      "Nome": "Duke",
+      "Raça": "Golden Retriever",
+      "Idade": "5 anos",
+      "Porte": "Grande",
+      "LinkImagem": "https://www.racoesreis.com.br/wordpress/wp-content/uploads/cachorro-origem2.jpg"
+    },
+    {
+      "Nome": "Chloe",
+      "Raça": "Yorkshire Terrier",
+      "Idade": "6 anos",
+      "Porte": "Pequeno",
+      "LinkImagem": "https://petanjo.com/blog/wp-content/uploads/2016/02/yorkshire-terrier.jpg"
+    },
+    {
+      "Nome": "Zeus",
+      "Raça": "Rottweiler",
+      "Idade": "3 anos",
+      "Porte": "Grande",
+      "LinkImagem": "https://www.petz.com.br/cachorro/racas/rottweiler/img/rottweiler-caracteristicas-guia-racas.jpg"
+    },
+    {
+      "Nome": "Daisy",
+      "Raça": "Beagle",
+      "Idade": "2 anos",
+      "Porte": "Médio",
+      "LinkImagem": "https://cdn.los-animales.org/fotos/3311651_594051-beagle-femea-espetacular.jpg"
+    },
+    {
+      "Nome": "Lara",
+      "Raça": "Vira Lata",
+      "Idade": "2 anos",
+      "Porte": "Médio",
+      "LinkImagem": "https://www.blupet.com.br/uploads/pets/20367/2036704122015155413000000.jpg"
+    },
+    {
+      "Nome": "Simba",
+      "Raça": "Husky Siberiano",
+      "Idade": "4 anos",
+      "Porte": "Grande",
+      "LinkImagem": "https://cobasi.vteximg.com.br/arquivos/ids/711533/AdobeStock_272667418.png?v=637581771455600000"
+    },
+    {
+      "Nome": "Mia",
+      "Raça": "Dachshund (Salsicha)",
+      "Idade": "3 anos",
+      "Porte": "Pequeno",
+      "LinkImagem": "https://guiaanimal.net/uploads/article/image/690/AdobeStock_47432136.jpeg"
+    },
+    {
+      "Nome": "Ruby",
+      "Raça": "Cocker Spaniel",
+      "Idade": "2 anos",
+      "Porte": "Médio",
+      "LinkImagem": "https://www.petlove.com.br/images/breeds/193533/profile/original/cocker_ingles-p.jpg?1532538860"
+    },
+    {
+      "Nome": "Toby",
+      "Raça": "Shiba Inu",
+      "Idade": "1 ano",
+      "Porte": "Médio",
+      "LinkImagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/1200px-Taka_Shiba.jpg"
+    },
+    {
+      "Nome": "Lily",
+      "Raça": "Maltese",
+      "Idade": "4 anos",
+      "Porte": "Pequeno",
+      "LinkImagem": "https://cdn.britannica.com/72/234472-050-735B6214/maltese-dog.jpg"
+    }
+  ]
+}
