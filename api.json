@@ -1,5 +1,4 @@
 [
-  "cachorros": {
     {
       "nome": "Bella",
       "raça": "Chihuahua",
@@ -105,5 +104,4 @@
       "porte": "Grande",
       "imagem": "https://www.infoescola.com/wp-content/uploads/2010/09/s%C3%A3o-bernardo_143925274.jpg"
     }
-  }
 ]
